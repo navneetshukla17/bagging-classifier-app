@@ -1,4 +1,5 @@
 # 🌸 Bagging Classifier Streamlit App
+🔗 **[https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/]**
 
 This project is a simple, interactive **Streamlit web application** that demonstrates how **Bagging (Bootstrap Aggregating)** improves classification performance using different base estimators like:
 
@@ -40,7 +41,6 @@ Built using the classic **Iris flower dataset**, this app allows users to:
 
 ## 🚀 Live Demo
 
-https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/
 ---
 
 ## 📁 Project Structure
@@ -60,32 +60,26 @@ Edit
 
 ### 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/your-username/bagging-classifier-app.git
 cd bagging-classifier-app
-2. Install dependencies
+## 2. Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-3. Run the Streamlit app
-bash
-Copy
-Edit
+
+## 3. Run the Streamlit app
 streamlit run app.py
-📦 Requirements
+
+## 📦 Requirements
 The project uses the following Python packages:
 
 streamlit
-
 scikit-learn
-
 pandas
-
 matplotlib
-
 seaborn
-
 Install them with:
 
 bash
@@ -101,7 +95,7 @@ Features: Sepal length, Sepal width, Petal length, Petal width
 
 Target: Species (Setosa, Versicolor, Virginica)
 
-🛠️ Future Improvements
+## 🛠️ Future Improvements
 Add support for Bank Marketing Dataset
 
 Add more ensemble models like Random Forest, AdaBoost
@@ -110,16 +104,10 @@ Display ROC curves and AUC scores
 
 Export predictions as downloadable CSV files
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Navneet Shukla
 🔗 LinkedIn
 🐙 GitHub
 
-📃 License
+## 📃 License
 This project is licensed under the MIT License.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd also like a `requirements.txt` file content or Streamlit Cloud deployment instructions.
