@@ -1,5 +1,4 @@
-# 🌸 Bagging Classifier Streamlit App
-🔗 **[🚀 Live Demo](https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/)**
+# 🌸 Bagging Classifier Streamlit App 🔗 **[Live Demo](https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/)**
 
 This project is a simple, interactive **Streamlit web application** that demonstrates how **Bagging (Bootstrap Aggregating)** improves classification performance using different base estimators like:
 
