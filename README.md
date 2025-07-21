@@ -40,8 +40,7 @@ Built using the classic **Iris flower dataset**, this app allows users to:
 
 ## 🚀 Live Demo
 
-Coming soon... (after Streamlit Cloud deployment)
-
+https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/
 ---
 
 ## 📁 Project Structure
