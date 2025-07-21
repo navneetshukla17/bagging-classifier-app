@@ -1,5 +1,5 @@
 # 🌸 Bagging Classifier Streamlit App
-🔗 **[https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/]**
+🔗 **[🚀 Live Demo](https://bagging-classifier-app-w99ufcaqhedzw9bnffowna.streamlit.app/)**
 
 This project is a simple, interactive **Streamlit web application** that demonstrates how **Bagging (Bootstrap Aggregating)** improves classification performance using different base estimators like:
 
@@ -36,10 +36,6 @@ Built using the classic **Iris flower dataset**, this app allows users to:
   - Accuracy scores  
   - Confusion matrices  
   - Original data scatter plot
-
----
-
-## 🚀 Live Demo
 
 ---
 
